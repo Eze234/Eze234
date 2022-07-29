@@ -12,7 +12,7 @@
 > [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
 
 # Bots de discord
-**Aquí están mis proyectos y donde soy developer(Aquí ni están los que están eliminados o abandonados)**
+**Aquí están mis proyectos y donde soy developer(Aquí no están los que están eliminados o abandonados)**
 > [Shinobu](https://dsc.gg/shinobu-bot)
 
 > [Tohru](https://discord.com/api/oauth2/authorize?client_id=862482131375489054&permissions=8&scope=bot%20applications.commands)
