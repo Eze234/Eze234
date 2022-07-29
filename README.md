@@ -13,6 +13,6 @@
 
 # Bots de discord
 **Aquí están mis proyectos y donde soy developer(Aquí ni están los que están eliminados o abandonados)**
-> [Shinobu](https://dsc.gg/shinobu-bot.com)
+> [Shinobu](https://dsc.gg/shinobu-bot)
 
 > [Tohru](https://discord.com/api/oauth2/authorize?client_id=862482131375489054&permissions=8&scope=bot%20applications.commands)
