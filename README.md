@@ -1,5 +1,5 @@
 # Sobre mí
-**Holaa 👋, soy [Eze](https://discord.gg/vBEpM5258V) un desarrollador de bots de discord 👨‍💻**
+**Holaa 👋, soy [Eze](https://discord.com/users/519634005226815492) un desarrollador de bots de la plataforma [Discord](https://discord.com) 👨‍💻**
 
 # Estadísticas 
 **Proyecto más grande**
