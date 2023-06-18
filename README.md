@@ -1,6 +1,24 @@
 # Sobre mí
-> ¡Hola! Soy [Eze](https://twitter.com/ElEtzeee), una persona que se pasa el día dentro de [Discord](https://discord.com/users/519634005226815492), hablando o programando bots con JavaScript y Typescript.
-# Mis conocimientos 
-> [![TypeScript](https://img.shields.io/badge/TypeScript-3b85d1?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()<br/>
-> [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
-> [![Node.Js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()<br/>
+Que onda, soy [Eze](https://twitter.com/ElEtzeee), todo bien. Soy un novato en esto de la programación y bueno quiero aprender mas cada día.
+# Mis conocimientos
+> <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
+<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a> 
+<a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a> 
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a> 
+<a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a> 
+<a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
+# Proyectos
+> **Aquí no presentare proyectos eliminados o abandonados.**
+- [SpreenBot](https://discord.gg/spreen) - Programador Principal
+- [OscuBot](https://discord.gg/oscu) - Programador Principal
+- [Shinobu](https://discord.com/api/oauth2/authorize?client_id=921562825703436329&permissions=1498343664759&scope=bot) - Programador Principal
+- [Tohru](https://discord.com/api/oauth2/authorize?client_id=862482131375489054&permissions=1498343664759&scope=bot)
+- [MultiCommands](https://www.npmjs.com/package/multi-commands-beta)
+
+# Contactame
+<a href="https://discord.com/users/519634005226815492"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
+<a href="https://twitter.com/ElEtzeee"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
+
+# Discord
+<a href="https://discord.com/users/519634005226815492" target="_blank">
+<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/519634005226815492?bg=1f1f1f&borderRadius=5px">
