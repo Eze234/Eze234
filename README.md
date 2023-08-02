@@ -9,10 +9,8 @@ Que onda, soy [Eze](https://twitter.com/ElEtzeee), todo bien. Soy un novato en e
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
 ## Proyectos
 > **Aquí no presentare proyectos eliminados o abandonados.**
-- [SpreenBot](https://discord.gg/spreen) - Programador Principal
 - [OscuBot](https://discord.gg/oscu) - Programador Principal
 - [Shinobu](https://discord.com/api/oauth2/authorize?client_id=921562825703436329&permissions=1498343664759&scope=bot) - Programador Principal
-- [Tohru](https://discord.com/api/oauth2/authorize?client_id=862482131375489054&permissions=1498343664759&scope=bot) - Programador
 - [MultiCommands](https://www.npmjs.com/package/multi-commands-beta) - Programador Principal
 
 ## Contáctame
