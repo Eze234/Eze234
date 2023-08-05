@@ -12,6 +12,7 @@ Que onda, soy [Eze](https://twitter.com/ElEtzeee), todo bien. Soy un novato en e
 - [OscuBot](https://discord.gg/oscu) - Programador Principal
 - [Shinobu](https://discord.com/api/oauth2/authorize?client_id=921562825703436329&permissions=1498343664759&scope=bot) - Programador Principal
 - [MultiCommands](https://www.npmjs.com/package/multi-commands-beta) - Programador Principal
+- [SpreenBot](https://discord.gg/spreen) - Programador Principal
 
 ## Contáctame
 <a href="https://discord.com/users/519634005226815492"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
