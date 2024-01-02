@@ -16,7 +16,7 @@ Que onda, soy [Eze](https://twitter.com/ElEtzeee), todo bien. Soy un novato en e
 
 ## Contáctame
 <a href="https://discord.com/users/519634005226815492"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
-<a href="https://twitter.com/ElEtzeee"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
+<a href="https://twitter.com/ElEtzeee"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&labelColor=000000&logo=x&logoColor=1da1f2&link=https://x.com/izakdvlpr" alt="X Badge"/></a>
 
 ## Mi Discord
 <a href="https://discord.com/users/519634005226815492" target="_blank">
