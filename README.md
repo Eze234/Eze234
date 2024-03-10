@@ -18,8 +18,6 @@ Que onda, soy [Eze](https://twitter.com/ElEtzeee), todo bien. Soy un novato en e
 <a href="https://discord.com/users/519634005226815492"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
 <a href="https://x.com/ElEtzeee"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&labelColor=000000&logo=x&logoColor=1da1f2&link=https://x.com/izakdvlpr" alt="X Badge"/></a>
 
-## ...
+## Alicaciones
 <a href="https://discord.com/users/519634005226815492" target="_blank">
 <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/519634005226815492?bg=1f1f1f&borderRadius=5px">
-  
-<img width="50%" align="left" src="https://pixel.chat/lOWPVswGXo4arGm/9ee07afa-6add-437a-849c-9a00f3ac5089">
