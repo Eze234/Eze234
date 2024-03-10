@@ -22,4 +22,4 @@ Que onda, soy [Eze](https://twitter.com/ElEtzeee), todo bien. Soy un novato en e
 <a href="https://discord.com/users/519634005226815492" target="_blank">
 <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/519634005226815492?bg=1f1f1f&borderRadius=5px">
   
-<img align="left" src="https://pixel.chat/lOWPVswGXo4arGm/9ee07afa-6add-437a-849c-9a00f3ac5089">
+<img width="50%" align="left" src="https://pixel.chat/lOWPVswGXo4arGm/9ee07afa-6add-437a-849c-9a00f3ac5089">
