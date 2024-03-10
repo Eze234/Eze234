@@ -21,4 +21,5 @@ Que onda, soy [Eze](https://twitter.com/ElEtzeee), todo bien. Soy un novato en e
 ## ...
 <a href="https://discord.com/users/519634005226815492" target="_blank">
 <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/519634005226815492?bg=1f1f1f&borderRadius=5px">
-<p align="left"> <img src="https://6klabs.com/widget/spotify/40ad8e0122299ea938ba431345ef1931320e095bcb58101faf498803778e59f3" alt="EzeZzz" /> </p>
+  
+<p align="left"> <img src="https://6klabs.com/widget/spotify/40ad8e0122299ea938ba431345ef1931320e095bcb58101faf498803778e59f3"> </p>
