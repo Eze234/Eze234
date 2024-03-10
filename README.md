@@ -18,6 +18,7 @@ Que onda, soy [Eze](https://twitter.com/ElEtzeee), todo bien. Soy un novato en e
 <a href="https://discord.com/users/519634005226815492"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
 <a href="https://x.com/ElEtzeee"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&labelColor=000000&logo=x&logoColor=1da1f2&link=https://x.com/izakdvlpr" alt="X Badge"/></a>
 
-## Discord
+## ...
 <a href="https://discord.com/users/519634005226815492" target="_blank">
 <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/519634005226815492?bg=1f1f1f&borderRadius=5px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eze234&label=Profile%20views&color=0e75b6&style=flat" alt="EzeZzz" /> </p>
