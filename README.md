@@ -1,4 +1,4 @@
-# Hi, i'm [Eze](https://x.com/eletzeee)!
+# Hi, i'm [Eze](https://spotify.com/user/s2xbxop7uuabyye9t5rwes5ij?si=0d328ea19c7646d7)!
 A developer from Paraguay who likes to listen to music!
 ## Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://skillicons.dev)
