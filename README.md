@@ -13,4 +13,4 @@ A developer from Paraguay who likes to listen to music!
 
 <a href="https://discord.com/users/519634005226815492" target="_blank">
 <img width="50%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/519634005226815492?bg=1f1f1f&borderRadius=5px">
-<img width="50%" align="right" alt="Top Langs" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Eze234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+<img width="50%" align="left" alt="Top Langs" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Eze234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
