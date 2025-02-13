@@ -11,6 +11,15 @@ A developer from Paraguay who likes to listen to music!
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/eletzeee)
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:ezeowogamil@gmail.com)
 
-<a href="https://discord.com/users/519634005226815492" target="_blank">
-<img width="50%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/519634005226815492?bg=1f1f1f&borderRadius=5px">
-<img width="50%" align="right" alt="Top Langs" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Eze234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+<table>
+   <tr>
+      <td>
+         <a href="https://discord.com/users/519634005226815492" target="_blank">
+            <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/519634005226815492?bg=1f1f1f&borderRadius=5px">
+         </a>
+      </td>
+      <td>
+         <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eze234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+      </td>
+   </tr>
+</table>
